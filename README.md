@@ -9,9 +9,9 @@
 
 [![Readme Card](https://github-readme-stats-orpin-iota-81.vercel.app/api/pin/?username=uluckystar&repo=jenkinsDemo&theme=ambient_gradient&locale=cn)](https://github.com/uluckystar)
 
-<a href="https://jzbt.xyz"><img align="center" src="https://img.shields.io/badge/个人网站-Jason'sHome-green.svg" alt="个人网站" /></a>
-<a href="https://mp.weixin.qq.com/s/8LbmZR2TQHaDLok9GKy4gg"><img align="center" src="https://img.shields.io/badge/公众号-JasonHome1024-blueviolet" alt="公众号" /></a>
-<a href="https://www.youtube.com/@JasonHome1024"><img align="center" src="https://img.shields.io/badge/YouTube-Jason‘sHome-critical" alt="YouTube" /></a>
+<a href="https://jzbt.xyz"><img align="center" src="https://img.shields.io/badge/个人网站-Jason'sHome-green.svg" alt="个人网站" /></a>｜&nbsp;&nbsp;
+<a href="https://mp.weixin.qq.com/s/8LbmZR2TQHaDLok9GKy4gg"><img align="center" src="https://img.shields.io/badge/公众号-JasonHome1024-blueviolet" alt="公众号" /></a>｜&nbsp;&nbsp;
+<a href="https://www.youtube.com/@JasonHome1024"><img align="center" src="https://img.shields.io/badge/YouTube-Jason‘sHome-critical" alt="YouTube" /></a>｜&nbsp;&nbsp;
 <a href="https://github.com/uluckystar/"><img align="center" src="https://img.shields.io/badge/GitHub-JasonJiang-black.svg" alt="GitHub" /></a>
 
 
