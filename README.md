@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uluckystar)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/uluckystar">
+  <img height=200 align="center" src="https://github-readme-stats-orpin-iota-81.vercel.app/api?username=uluckystar&theme=ambient_gradient&locale=cn" />
+</a>
+<a href="https://github.com/uluckystar">
+  <img height=200 align="center" src="https://github-readme-stats-orpin-iota-81.vercel.app/api/top-langs/?username=uluckystar&theme=ambient_gradient&locale=cn&langs_count=10" />
+</a>
+
+<a href="https://github.com/uluckystar/jenkinsDemo">
+  <img height=200 align="center" src="https://github-readme-stats-orpin-iota-81.vercel.app/api/pin/?username=uluckystar&repo=jenkinsDemo&theme=ambient_gradient&locale=cn" />
+</a>
+
+
 
 
 <!--
